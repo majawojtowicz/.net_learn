@@ -1,0 +1,12 @@
+C:\Users\mysza\source\repos\.net\MultiProjectNuGetDemo\MyServices\bin\Debug\net8.0\MyServices.deps.json
+C:\Users\mysza\source\repos\.net\MultiProjectNuGetDemo\MyServices\bin\Debug\net8.0\MyServices.dll
+C:\Users\mysza\source\repos\.net\MultiProjectNuGetDemo\MyServices\bin\Debug\net8.0\MyServices.pdb
+C:\Users\mysza\source\repos\.net\MultiProjectNuGetDemo\MyServices\obj\Debug\net8.0\MyServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mysza\source\repos\.net\MultiProjectNuGetDemo\MyServices\obj\Debug\net8.0\MyServices.AssemblyInfoInputs.cache
+C:\Users\mysza\source\repos\.net\MultiProjectNuGetDemo\MyServices\obj\Debug\net8.0\MyServices.AssemblyInfo.cs
+C:\Users\mysza\source\repos\.net\MultiProjectNuGetDemo\MyServices\obj\Debug\net8.0\MyServices.csproj.CoreCompileInputs.cache
+C:\Users\mysza\source\repos\.net\MultiProjectNuGetDemo\MyServices\obj\Debug\net8.0\MyServices.sourcelink.json
+C:\Users\mysza\source\repos\.net\MultiProjectNuGetDemo\MyServices\obj\Debug\net8.0\MyServices.dll
+C:\Users\mysza\source\repos\.net\MultiProjectNuGetDemo\MyServices\obj\Debug\net8.0\refint\MyServices.dll
+C:\Users\mysza\source\repos\.net\MultiProjectNuGetDemo\MyServices\obj\Debug\net8.0\MyServices.pdb
+C:\Users\mysza\source\repos\.net\MultiProjectNuGetDemo\MyServices\obj\Debug\net8.0\ref\MyServices.dll
