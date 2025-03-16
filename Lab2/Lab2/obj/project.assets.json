@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mysza\\source\\repos\\.net\\Lab2\\Lab2\\Lab2.csproj",
-      "projectName": "Lab2",
-      "projectPath": "C:\\Users\\mysza\\source\\repos\\.net\\Lab2\\Lab2\\Lab2.csproj",
+      "projectUniqueName": "C:\\Users\\mysza\\source\\repos\\.net\\Lab2\\Lab2\\TextAnalyzer.csproj",
+      "projectName": "TextAnalyzer",
+      "projectPath": "C:\\Users\\mysza\\source\\repos\\.net\\Lab2\\Lab2\\TextAnalyzer.csproj",
       "packagesPath": "C:\\Users\\mysza\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\mysza\\source\\repos\\.net\\Lab2\\Lab2\\obj\\",
       "projectStyle": "PackageReference",

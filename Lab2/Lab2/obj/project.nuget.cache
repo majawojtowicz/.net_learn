@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EMv6KbUdyaA8rxChTAJtggD25ljCeJwZ/4swKkYk+mYWQQfnXaiYRu9AAkr+QpiDvWCGivKsNHWUdf/L4Hwtjg==",
+  "dgSpecHash": "slQmuYm5Ctyt29M8PH48sCCwqcyi8ndzot4GHx5ueyisTlej3sZDLNYUfeco1dt6WV1k9ZZdb42Q8au7ltHL/w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mysza\\source\\repos\\.net\\Lab2\\Lab2\\Lab2.csproj",
+  "projectFilePath": "C:\\Users\\mysza\\source\\repos\\.net\\Lab2\\Lab2\\TextAnalyzer.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
