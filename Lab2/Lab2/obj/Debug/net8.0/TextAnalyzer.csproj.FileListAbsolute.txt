@@ -1,0 +1,15 @@
+C:\Users\mysza\source\repos\.net\Lab2\Lab2\obj\Debug\net8.0\TextAnalyzer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mysza\source\repos\.net\Lab2\Lab2\obj\Debug\net8.0\TextAnalyzer.AssemblyInfoInputs.cache
+C:\Users\mysza\source\repos\.net\Lab2\Lab2\obj\Debug\net8.0\TextAnalyzer.AssemblyInfo.cs
+C:\Users\mysza\source\repos\.net\Lab2\Lab2\obj\Debug\net8.0\TextAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\mysza\source\repos\.net\Lab2\Lab2\obj\Debug\net8.0\TextAnalyzer.sourcelink.json
+C:\Users\mysza\source\repos\.net\Lab2\Lab2\bin\Debug\net8.0\TextAnalyzer.exe
+C:\Users\mysza\source\repos\.net\Lab2\Lab2\bin\Debug\net8.0\TextAnalyzer.deps.json
+C:\Users\mysza\source\repos\.net\Lab2\Lab2\bin\Debug\net8.0\TextAnalyzer.runtimeconfig.json
+C:\Users\mysza\source\repos\.net\Lab2\Lab2\bin\Debug\net8.0\TextAnalyzer.dll
+C:\Users\mysza\source\repos\.net\Lab2\Lab2\bin\Debug\net8.0\TextAnalyzer.pdb
+C:\Users\mysza\source\repos\.net\Lab2\Lab2\obj\Debug\net8.0\TextAnalyzer.dll
+C:\Users\mysza\source\repos\.net\Lab2\Lab2\obj\Debug\net8.0\refint\TextAnalyzer.dll
+C:\Users\mysza\source\repos\.net\Lab2\Lab2\obj\Debug\net8.0\TextAnalyzer.pdb
+C:\Users\mysza\source\repos\.net\Lab2\Lab2\obj\Debug\net8.0\TextAnalyzer.genruntimeconfig.cache
+C:\Users\mysza\source\repos\.net\Lab2\Lab2\obj\Debug\net8.0\ref\TextAnalyzer.dll

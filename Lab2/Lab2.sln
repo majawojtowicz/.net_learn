@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab2", "Lab2\Lab2.csproj", "{86E3740A-4FC6-4CF4-8891-DB58BE7ABF44}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextAnalyzer", "Lab2\TextAnalyzer.csproj", "{86E3740A-4FC6-4CF4-8891-DB58BE7ABF44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextAnalyzer.Tests", "TextAnalyzer.Tests\TextAnalyzer.Tests.csproj", "{FC3F3F73-543F-4FF5-848F-A3A24CF1A0B8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{86E3740A-4FC6-4CF4-8891-DB58BE7ABF44}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{86E3740A-4FC6-4CF4-8891-DB58BE7ABF44}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{86E3740A-4FC6-4CF4-8891-DB58BE7ABF44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC3F3F73-543F-4FF5-848F-A3A24CF1A0B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC3F3F73-543F-4FF5-848F-A3A24CF1A0B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC3F3F73-543F-4FF5-848F-A3A24CF1A0B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC3F3F73-543F-4FF5-848F-A3A24CF1A0B8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
