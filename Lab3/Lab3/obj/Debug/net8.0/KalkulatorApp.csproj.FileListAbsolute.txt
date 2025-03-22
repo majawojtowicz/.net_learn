@@ -1,0 +1,15 @@
+C:\Users\mysza\source\repos\.net\Lab3\Lab3\obj\Debug\net8.0\KalkulatorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mysza\source\repos\.net\Lab3\Lab3\obj\Debug\net8.0\KalkulatorApp.AssemblyInfoInputs.cache
+C:\Users\mysza\source\repos\.net\Lab3\Lab3\obj\Debug\net8.0\KalkulatorApp.AssemblyInfo.cs
+C:\Users\mysza\source\repos\.net\Lab3\Lab3\obj\Debug\net8.0\KalkulatorApp.csproj.CoreCompileInputs.cache
+C:\Users\mysza\source\repos\.net\Lab3\Lab3\obj\Debug\net8.0\KalkulatorApp.sourcelink.json
+C:\Users\mysza\source\repos\.net\Lab3\Lab3\bin\Debug\net8.0\KalkulatorApp.exe
+C:\Users\mysza\source\repos\.net\Lab3\Lab3\bin\Debug\net8.0\KalkulatorApp.deps.json
+C:\Users\mysza\source\repos\.net\Lab3\Lab3\bin\Debug\net8.0\KalkulatorApp.runtimeconfig.json
+C:\Users\mysza\source\repos\.net\Lab3\Lab3\bin\Debug\net8.0\KalkulatorApp.dll
+C:\Users\mysza\source\repos\.net\Lab3\Lab3\bin\Debug\net8.0\KalkulatorApp.pdb
+C:\Users\mysza\source\repos\.net\Lab3\Lab3\obj\Debug\net8.0\KalkulatorApp.dll
+C:\Users\mysza\source\repos\.net\Lab3\Lab3\obj\Debug\net8.0\refint\KalkulatorApp.dll
+C:\Users\mysza\source\repos\.net\Lab3\Lab3\obj\Debug\net8.0\KalkulatorApp.pdb
+C:\Users\mysza\source\repos\.net\Lab3\Lab3\obj\Debug\net8.0\KalkulatorApp.genruntimeconfig.cache
+C:\Users\mysza\source\repos\.net\Lab3\Lab3\obj\Debug\net8.0\ref\KalkulatorApp.dll

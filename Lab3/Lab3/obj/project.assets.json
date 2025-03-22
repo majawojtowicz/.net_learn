@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mysza\\source\\repos\\.net\\Lab3\\Lab3\\Lab3.csproj",
-      "projectName": "Lab3",
-      "projectPath": "C:\\Users\\mysza\\source\\repos\\.net\\Lab3\\Lab3\\Lab3.csproj",
+      "projectUniqueName": "C:\\Users\\mysza\\source\\repos\\.net\\Lab3\\Lab3\\KalkulatorApp.csproj",
+      "projectName": "KalkulatorApp",
+      "projectPath": "C:\\Users\\mysza\\source\\repos\\.net\\Lab3\\Lab3\\KalkulatorApp.csproj",
       "packagesPath": "C:\\Users\\mysza\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\mysza\\source\\repos\\.net\\Lab3\\Lab3\\obj\\",
       "projectStyle": "PackageReference",
