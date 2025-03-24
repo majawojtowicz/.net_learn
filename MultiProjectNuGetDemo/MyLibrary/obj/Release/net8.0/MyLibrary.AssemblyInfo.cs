@@ -12,7 +12,7 @@ using System;
 using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("MyLibrary")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.1.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.1.0+b89f3821e28f5fbbc860fb76249a22a2fc6cfaf4")]
 [assembly: System.Reflection.AssemblyProductAttribute("MyLibrary")]
