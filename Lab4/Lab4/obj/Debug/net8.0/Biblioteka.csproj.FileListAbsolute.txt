@@ -1,0 +1,15 @@
+C:\Users\mysza\source\repos\.net\Lab4\Lab4\bin\Debug\net8.0\Biblioteka.exe
+C:\Users\mysza\source\repos\.net\Lab4\Lab4\bin\Debug\net8.0\Biblioteka.deps.json
+C:\Users\mysza\source\repos\.net\Lab4\Lab4\bin\Debug\net8.0\Biblioteka.runtimeconfig.json
+C:\Users\mysza\source\repos\.net\Lab4\Lab4\bin\Debug\net8.0\Biblioteka.dll
+C:\Users\mysza\source\repos\.net\Lab4\Lab4\bin\Debug\net8.0\Biblioteka.pdb
+C:\Users\mysza\source\repos\.net\Lab4\Lab4\obj\Debug\net8.0\Biblioteka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mysza\source\repos\.net\Lab4\Lab4\obj\Debug\net8.0\Biblioteka.AssemblyInfoInputs.cache
+C:\Users\mysza\source\repos\.net\Lab4\Lab4\obj\Debug\net8.0\Biblioteka.AssemblyInfo.cs
+C:\Users\mysza\source\repos\.net\Lab4\Lab4\obj\Debug\net8.0\Biblioteka.csproj.CoreCompileInputs.cache
+C:\Users\mysza\source\repos\.net\Lab4\Lab4\obj\Debug\net8.0\Biblioteka.sourcelink.json
+C:\Users\mysza\source\repos\.net\Lab4\Lab4\obj\Debug\net8.0\Biblioteka.dll
+C:\Users\mysza\source\repos\.net\Lab4\Lab4\obj\Debug\net8.0\refint\Biblioteka.dll
+C:\Users\mysza\source\repos\.net\Lab4\Lab4\obj\Debug\net8.0\Biblioteka.pdb
+C:\Users\mysza\source\repos\.net\Lab4\Lab4\obj\Debug\net8.0\Biblioteka.genruntimeconfig.cache
+C:\Users\mysza\source\repos\.net\Lab4\Lab4\obj\Debug\net8.0\ref\Biblioteka.dll

@@ -8,7 +8,7 @@ namespace Biblioteka
 {
     public interface IBookOperations
     {
-        bool BorrowBook(int bookId, string borrowerName);
-        bool ReturnBook(int bookId);
+        bool BorrowBook(string bookId, string borrowerName);
+        bool ReturnBook(string bookId);
     }
 }

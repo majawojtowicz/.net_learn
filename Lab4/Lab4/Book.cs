@@ -1,28 +1,32 @@
 ﻿// See https://aka.ms/new-console-template for more information
 public class Book
 {
+    private string id;
+    private string title;
+    private string author;
+    private bool isAvailable;
     public string Id {
-        get { return Id; }
-        private set { Id = value; }
+        get { return id; }
+        private set { id = value; }
     }
     public string Title
     {
-        get { return Title; }
-        private set { Title = value; }
+        get { return title; }
+        private set { title = value; }
     }
     public string Author
     {
-        get { return Author; }
-        private set { Author = value; }
+        get { return author; }
+        private set { author = value; }
     }
 
     public bool IsAvailable
     {
-        get { return IsAvailable; }
-        private set { IsAvailable = value; }
+        get { return isAvailable; }
+        set { isAvailable = value; }
     }
 
-    public Book(string id, string title, string author)
+    public Book( string title, string author, string id)
     {
         this.Id = id;
         this.Title = title;

@@ -8,14 +8,15 @@ namespace Biblioteka
 {
     public class EBook : Book
     {
+        private string fileFormat;
         public string FileFormat
         {
-            get { return FileFormat; }
-            private set { FileFormat = value; }
+            get { return fileFormat; }
+            private set { fileFormat = value; }
         }
 
 
-        public EBook(string id,string title, string author, string fileFormat):base(id, title, author)
+        public EBook(string title, string author, string id, string fileFormat):base(title, author, id)
         {
             this.FileFormat = fileFormat;
         }

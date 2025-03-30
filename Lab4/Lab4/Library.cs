@@ -15,47 +15,54 @@ namespace Biblioteka
             books.Add(book);
         }
 
-        public ListAvailableBooks 
+        public List<Book> ListAvailableBooks()
         {
-        
+            return books.Where(b => b.IsAvailable).ToList();
         }
 
-        public bool BorrowBook(int bookId, string borrowerName)
+        private List<Reader> readers = new List<Reader>();
+        public void RegisterReader(Reader reader)
         {
-        var book = Book.book;
-        if (book == null)
-        {
-            Console.WriteLine("Nie ma w bibliotece");
-            return false;
-        }
-        if (!book.IsAvailable)
-        {
-            Console.WriteLine("Wypozyczone");
-            return false;
+            if(!readers.Any(r => r.Id == reader.Id))
+            {
+                readers.Add(reader);
+            }
         }
 
-        book.IsAvailable = false;
-        Console.WriteLine("Ta ksiazka wlasnie wypozyczona przez " + borrowerName);
-        return 0;
+        public bool BorrowBook(string bookId, string borrowerName)
+        {
+            var book = books.FirstOrDefault(b => b.Id == bookId);
+            if (book == null)
+            {
+                throw new ArgumentException("Nie znalezion książki o tym ID.");
+                
+            }
+            if (!book.IsAvailable)
+            {
+                throw new InvalidOperationException("wypożyczona.");
+            }
+
+            book.IsAvailable = false;
+            Console.WriteLine("Ta ksiazka wlasnie wypozyczona przez " + borrowerName);
+            return true;
         }
 
-        public bool ReturnBook(int bookId)
+        public bool ReturnBook(string bookId)
         {
-        var book = Book.book;
-        if (book == null)
-        {
-            Console.WriteLine("Nie ma w bibliotece");
-            return false;
-        }
-        if (!book.IsAvailable)
-        {
-            Console.WriteLine("Wypozyczone");
-            return false;
-        }
+            var book = books.FirstOrDefault(b => b.Id == bookId);
+            if (book == null)
+            {
+                throw new ArgumentException("Nie znaleziono");
+            }
+            if (!book.IsAvailable)
+            {
+                throw new InvalidOperationException("Książka nie była wypożyczona.");
+            }
 
-        book.IsAvailable = true;
-        Console.WriteLine("Ta ksiazka wlasnie zwrocona przez " + borrowerName);
-        return 0;
-    }
+            book.IsAvailable = true;
+            Console.WriteLine("Ta ksiazka wlasnie zwrocona przez ");
+            return true;
+
+        }
     }
 }
