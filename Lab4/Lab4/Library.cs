@@ -54,7 +54,7 @@ namespace Biblioteka
             {
                 throw new ArgumentException("Nie znaleziono");
             }
-            if (!book.IsAvailable)
+            if (book.IsAvailable)
             {
                 throw new InvalidOperationException("Książka nie była wypożyczona.");
             }
