@@ -6,7 +6,22 @@ using System.Threading.Tasks;
 
 namespace VehicleReservationSystem
 {
-    internal class Reservation
+    public class Reservation
     {
+        public int VehicleId { get; set; }
+        public string Customer { get; set; }
+        public DateTime ReservationDate { get; set; }
+
+        public Reservation(int vehicleId, string customer)
+        {
+            VehicleId = vehicleId;
+            Customer = customer;
+            ReservationDate = DateTime.Now;
+        }
+
+        public override string ToString()
+        {
+            return $"Reservation for {VehicleId} for {Customer} on {ReservationDate}";
+        }
     }
 }

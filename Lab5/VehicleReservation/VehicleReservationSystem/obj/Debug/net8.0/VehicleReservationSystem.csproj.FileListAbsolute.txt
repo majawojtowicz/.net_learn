@@ -1,0 +1,15 @@
+C:\Users\mysza\source\repos\.net\Lab5\VehicleReservation\VehicleReservationSystem\obj\Debug\net8.0\VehicleReservationSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mysza\source\repos\.net\Lab5\VehicleReservation\VehicleReservationSystem\obj\Debug\net8.0\VehicleReservationSystem.AssemblyInfoInputs.cache
+C:\Users\mysza\source\repos\.net\Lab5\VehicleReservation\VehicleReservationSystem\obj\Debug\net8.0\VehicleReservationSystem.AssemblyInfo.cs
+C:\Users\mysza\source\repos\.net\Lab5\VehicleReservation\VehicleReservationSystem\obj\Debug\net8.0\VehicleReservationSystem.csproj.CoreCompileInputs.cache
+C:\Users\mysza\source\repos\.net\Lab5\VehicleReservation\VehicleReservationSystem\obj\Debug\net8.0\VehicleReservationSystem.sourcelink.json
+C:\Users\mysza\source\repos\.net\Lab5\VehicleReservation\VehicleReservationSystem\bin\Debug\net8.0\VehicleReservationSystem.exe
+C:\Users\mysza\source\repos\.net\Lab5\VehicleReservation\VehicleReservationSystem\bin\Debug\net8.0\VehicleReservationSystem.deps.json
+C:\Users\mysza\source\repos\.net\Lab5\VehicleReservation\VehicleReservationSystem\bin\Debug\net8.0\VehicleReservationSystem.runtimeconfig.json
+C:\Users\mysza\source\repos\.net\Lab5\VehicleReservation\VehicleReservationSystem\bin\Debug\net8.0\VehicleReservationSystem.dll
+C:\Users\mysza\source\repos\.net\Lab5\VehicleReservation\VehicleReservationSystem\bin\Debug\net8.0\VehicleReservationSystem.pdb
+C:\Users\mysza\source\repos\.net\Lab5\VehicleReservation\VehicleReservationSystem\obj\Debug\net8.0\VehicleReservationSystem.dll
+C:\Users\mysza\source\repos\.net\Lab5\VehicleReservation\VehicleReservationSystem\obj\Debug\net8.0\refint\VehicleReservationSystem.dll
+C:\Users\mysza\source\repos\.net\Lab5\VehicleReservation\VehicleReservationSystem\obj\Debug\net8.0\VehicleReservationSystem.pdb
+C:\Users\mysza\source\repos\.net\Lab5\VehicleReservation\VehicleReservationSystem\obj\Debug\net8.0\VehicleReservationSystem.genruntimeconfig.cache
+C:\Users\mysza\source\repos\.net\Lab5\VehicleReservation\VehicleReservationSystem\obj\Debug\net8.0\ref\VehicleReservationSystem.dll
