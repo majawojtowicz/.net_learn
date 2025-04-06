@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VehicleReservationSystem.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fd2fac6ef2c101e0eacd69e69a718baf1f869b01")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1ad7d8375e9c90908fa1c2c4e2110ecb38a140c8")]
 [assembly: System.Reflection.AssemblyProductAttribute("VehicleReservationSystem.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VehicleReservationSystem.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
