@@ -1,29 +1,55 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+// See https://aka.ms/new-console-template for more information
 
-namespace protoype
+public interface IDocumentPrototype
 {
-    class Program
-    {
-        static void Main()
-        {
-            var reportTemplate = new DocumentTemplate("Raport Firmowy", "Strona 1 z 1");
-            var original = new Document("Raport 2025", "Zawartość raportu...", reportTemplate);
-
-            var copy = (Document)original.Clone();
-            copy.Title = "Kopia Raportu";
-            copy.Template.Footer = "Strona 1 z 2";
-
-            Console.WriteLine("ORYGINAŁ:");
-            original.Display();
-
-            Console.WriteLine("\nKOPIA:");
-            copy.Display();
-        }
-    }
-
+    IDocumentPrototype Clone();
 }
 
+public class DocumentTemplate
+{
+    public string Header { get; set; }
+    public string Footer { get; set; }
+
+    public DocumentTemplate(string header, string footer)
+    {
+        Header = header;
+        Footer = footer;
+    }
+
+    public DocumentTemplate Copy()
+    {
+        return new DocumentTemplate(Header, Footer);
+    }
+}
+
+public class Document : IDocumentPrototype
+{
+    public string Title { get; set; }
+    public string Content { get; set; }
+    public DocumentTemplate Template { get; set; }
+
+    public Document(string title, string content, DocumentTemplate template)
+    {
+        Title = title;
+        Content = content;
+        Template = template;
+    }
+
+    public IDocumentPrototype Clone()
+    {
+        // głęboka kopia
+        return new Document(
+            title: this.Title,
+            content: this.Content,
+            template: this.Template.Copy()
+        );
+    }
+
+    public void Display()
+    {
+        Console.WriteLine($"--{Template.Header} --");
+        Console.WriteLine($"Title: {Title}");
+        Console.WriteLine(Content);
+        Console.WriteLine($"--{Template.Footer} --");
+    }
+}
