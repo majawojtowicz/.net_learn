@@ -1,0 +1,24 @@
+﻿@model EventsReg.Models.Participant
+
+<h2>Dodaj uczestnika</h2>
+
+<form asp-action="Create">
+    <input type="hidden" asp-for="EventId" value="@ViewBag.EventId" />
+    <div>
+        <label asp-for="Name"></label>
+        <input asp-for="Name" />
+        <span asp-validation-for="Name"></span>
+    </div>
+    <div>
+        <label asp-for="Email"></label>
+        <input asp-for="Email" />
+        <span asp-validation-for="Email"></span>
+    </div>
+    <button type="submit">Zapisz</button>
+</form>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

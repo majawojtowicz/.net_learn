@@ -1,0 +1,8 @@
+﻿@model Event
+
+<h2>@Model.Title</h2>
+<p>@Model.Description</p>
+<p><strong>Data:</strong> @Model.Date</p>
+
+<a asp-controller="Participants" asp-action="Create" asp-route-eventId="@Model.Id">Dodaj uczestnika</a>
+<a asp-controller="Participants" asp-action="ListByEvent" asp-route-eventId="@Model.Id">Lista uczestników</a>
