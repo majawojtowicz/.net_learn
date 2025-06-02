@@ -1,0 +1,15 @@
+C:\Users\mysza\source\repos\.net\Lab12\WordAnalyzer\bin\Debug\net8.0\WordAnalyzer.exe
+C:\Users\mysza\source\repos\.net\Lab12\WordAnalyzer\bin\Debug\net8.0\WordAnalyzer.deps.json
+C:\Users\mysza\source\repos\.net\Lab12\WordAnalyzer\bin\Debug\net8.0\WordAnalyzer.runtimeconfig.json
+C:\Users\mysza\source\repos\.net\Lab12\WordAnalyzer\bin\Debug\net8.0\WordAnalyzer.dll
+C:\Users\mysza\source\repos\.net\Lab12\WordAnalyzer\bin\Debug\net8.0\WordAnalyzer.pdb
+C:\Users\mysza\source\repos\.net\Lab12\WordAnalyzer\obj\Debug\net8.0\WordAnalyzer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mysza\source\repos\.net\Lab12\WordAnalyzer\obj\Debug\net8.0\WordAnalyzer.AssemblyInfoInputs.cache
+C:\Users\mysza\source\repos\.net\Lab12\WordAnalyzer\obj\Debug\net8.0\WordAnalyzer.AssemblyInfo.cs
+C:\Users\mysza\source\repos\.net\Lab12\WordAnalyzer\obj\Debug\net8.0\WordAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\mysza\source\repos\.net\Lab12\WordAnalyzer\obj\Debug\net8.0\WordAnalyzer.sourcelink.json
+C:\Users\mysza\source\repos\.net\Lab12\WordAnalyzer\obj\Debug\net8.0\WordAnalyzer.dll
+C:\Users\mysza\source\repos\.net\Lab12\WordAnalyzer\obj\Debug\net8.0\refint\WordAnalyzer.dll
+C:\Users\mysza\source\repos\.net\Lab12\WordAnalyzer\obj\Debug\net8.0\WordAnalyzer.pdb
+C:\Users\mysza\source\repos\.net\Lab12\WordAnalyzer\obj\Debug\net8.0\WordAnalyzer.genruntimeconfig.cache
+C:\Users\mysza\source\repos\.net\Lab12\WordAnalyzer\obj\Debug\net8.0\ref\WordAnalyzer.dll
