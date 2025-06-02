@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mysza\\source\\repos\\.net\\MultiProjectNuGetDemo\\MyServices\\MyServices.csproj": {}
+    "C:\\Users\\mysza\\source\\repos\\.net\\Lab12\\MultiProjectNuGetDemo\\MyServices\\MyServices.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mysza\\source\\repos\\.net\\MultiProjectNuGetDemo\\MyServices\\MyServices.csproj": {
+    "C:\\Users\\mysza\\source\\repos\\.net\\Lab12\\MultiProjectNuGetDemo\\MyServices\\MyServices.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mysza\\source\\repos\\.net\\MultiProjectNuGetDemo\\MyServices\\MyServices.csproj",
+        "projectUniqueName": "C:\\Users\\mysza\\source\\repos\\.net\\Lab12\\MultiProjectNuGetDemo\\MyServices\\MyServices.csproj",
         "projectName": "MyServices",
-        "projectPath": "C:\\Users\\mysza\\source\\repos\\.net\\MultiProjectNuGetDemo\\MyServices\\MyServices.csproj",
+        "projectPath": "C:\\Users\\mysza\\source\\repos\\.net\\Lab12\\MultiProjectNuGetDemo\\MyServices\\MyServices.csproj",
         "packagesPath": "C:\\Users\\mysza\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mysza\\source\\repos\\.net\\MultiProjectNuGetDemo\\MyServices\\obj\\",
+        "outputPath": "C:\\Users\\mysza\\source\\repos\\.net\\Lab12\\MultiProjectNuGetDemo\\MyServices\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

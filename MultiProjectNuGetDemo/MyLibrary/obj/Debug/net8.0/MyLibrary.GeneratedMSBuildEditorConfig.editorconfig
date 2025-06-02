@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MyLibrary
-build_property.ProjectDir = C:\Users\mysza\source\repos\.net\MultiProjectNuGetDemo\MyLibrary\
+build_property.ProjectDir = C:\Users\mysza\source\repos\.net\Lab12\MultiProjectNuGetDemo\MyLibrary\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

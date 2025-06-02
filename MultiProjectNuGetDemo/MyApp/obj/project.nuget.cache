@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BwU2i2DjYEUsYciNBTAFS4/wP09mpOkJJJmFGknHF/2t+n2V++PI2LOEfyBT9qpXFwBLh8GJlLTgq51zp4G1CQ==",
+  "dgSpecHash": "PZO2FSYjJJhrWMZ1x5WTLhQbZObAvLk/CXglls99CYeZ02votEJflKrM0alQATeMW+FFc46o8eEm6I93NGETLA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mysza\\source\\repos\\.net\\MultiProjectNuGetDemo\\MyApp\\MyApp.csproj",
+  "projectFilePath": "C:\\Users\\mysza\\source\\repos\\.net\\Lab12\\MultiProjectNuGetDemo\\MyApp\\MyApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mysza\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.2\\microsoft.extensions.dependencyinjection.9.0.2.nupkg.sha512",
     "C:\\Users\\mysza\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.2\\microsoft.extensions.dependencyinjection.abstractions.9.0.2.nupkg.sha512",

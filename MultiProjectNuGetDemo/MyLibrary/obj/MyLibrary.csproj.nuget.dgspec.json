@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mysza\\source\\repos\\.net\\MultiProjectNuGetDemo\\MyLibrary\\MyLibrary.csproj": {}
+    "C:\\Users\\mysza\\source\\repos\\.net\\Lab12\\MultiProjectNuGetDemo\\MyLibrary\\MyLibrary.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mysza\\source\\repos\\.net\\MultiProjectNuGetDemo\\MyLibrary\\MyLibrary.csproj": {
+    "C:\\Users\\mysza\\source\\repos\\.net\\Lab12\\MultiProjectNuGetDemo\\MyLibrary\\MyLibrary.csproj": {
       "version": "1.1.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mysza\\source\\repos\\.net\\MultiProjectNuGetDemo\\MyLibrary\\MyLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\mysza\\source\\repos\\.net\\Lab12\\MultiProjectNuGetDemo\\MyLibrary\\MyLibrary.csproj",
         "projectName": "MyLibrary",
-        "projectPath": "C:\\Users\\mysza\\source\\repos\\.net\\MultiProjectNuGetDemo\\MyLibrary\\MyLibrary.csproj",
+        "projectPath": "C:\\Users\\mysza\\source\\repos\\.net\\Lab12\\MultiProjectNuGetDemo\\MyLibrary\\MyLibrary.csproj",
         "packagesPath": "C:\\Users\\mysza\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mysza\\source\\repos\\.net\\MultiProjectNuGetDemo\\MyLibrary\\obj\\",
+        "outputPath": "C:\\Users\\mysza\\source\\repos\\.net\\Lab12\\MultiProjectNuGetDemo\\MyLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

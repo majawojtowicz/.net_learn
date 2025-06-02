@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gC4NucD6tYuAVLh/KrMvT9pjILR0j3275q7OrtSUA5iQkrBd4gQTFbQjaR+JGVrw8B6Djqfhy29/ylv6Mr9HiA==",
+  "dgSpecHash": "+NdjKlMYkMFUHk0OE3Hev4iXdZCe1jymaotpoSqHIQuVQ2xtO7dc3iYFEgUTMRbpkLqGcS3vVYVpwwYUwLOKOw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mysza\\source\\repos\\.net\\MultiProjectNuGetDemo\\MyLibrary\\MyLibrary.csproj",
+  "projectFilePath": "C:\\Users\\mysza\\source\\repos\\.net\\Lab12\\MultiProjectNuGetDemo\\MyLibrary\\MyLibrary.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
